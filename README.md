@@ -5,8 +5,10 @@
 
 Este proyecto es una demostración de cómo utilizar **EJS (Embedded JavaScript)** como motor de plantillas en una aplicación Node.js. En este ejemplo, he creado una página web simple que incluye un **hero**, una sección de **acerca de** y un **footer**. La estructura del proyecto está diseñada para mostrar cómo modularizar y reutilizar el código de las plantillas usando EJS.
 
-##Demo proyecto 
+## Demo proyecto 
 - [ejecucion proyecto en vivo](https://stackblitz.com/edit/stackblitz-starters-fuewbr)
+
+  
 
 ## Estructura del Proyecto
 
